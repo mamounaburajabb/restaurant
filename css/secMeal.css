@@ -1,0 +1,130 @@
+header,
+body {
+    height: 100%;
+    width: 100%;
+    background-color: #EAE2B7;
+}
+
+#div1 {
+    display: flex;
+    flex-direction: raw;
+    justify-content: space-between;
+    padding-top: 0px;
+}
+
+.h1 {
+    background-color: #FCBF49;
+    padding-right: 10px;
+    border-radius: 45px;
+    width: 110px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+#section {
+    height: 85px;
+    width: 100%;
+    background-color: #003049;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border-radius: 45px;
+    margin-top: 20px;
+}
+
+.sec {
+    width: 110px;
+    background-color: #D62828;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #EAE2B7;
+    border-radius: 45px;
+    text-align: center;
+}
+
+#sec3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-right: 100px;
+    padding-top: 250px;
+    padding-bottom: 50px;
+}
+
+.about {
+    background-color: #D62828;
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+    padding-right: 80px;
+    text-align: center;
+    padding-top: 40px;
+    border-radius: 70px;
+}
+
+.meadia {
+    padding-right: 70px;
+}
+
+.aboutt {
+    background-color: #D62828;
+    display: flex;
+    justify-content: center;
+    border-radius: 45px;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.ing {
+    height: 250px;
+    width: 250px;
+    border-radius: 45px;
+    background-color: #003049;
+    color: #E9DCB2;
+    text-align: left;
+    font-size: 40px;
+    padding-left: 25px;
+}
+
+.section2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 50px;
+}
+
+#NewMeal {
+    height: 40px;
+    width: 200px;
+    background-color: #FCBF49;
+    color: #003049;
+    padding-left: 30px;
+    border-radius: 45px;
+    margin-top: 50px;
+}
+
+.prise {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+}
+
+.prisee {
+    background-color: #FCBF49;
+    color: #003049;
+    margin-top: 304px;
+    font-size: 40px;
+}
+
+#NewMeall {
+    height: 80px;
+    width: 200px;
+    background-color: #FCBF49;
+    color: #003049;
+    padding-left: 30px;
+    border-radius: 45px;
+    margin-top: 50px;
+}
